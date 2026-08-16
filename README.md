@@ -1,10 +1,22 @@
 <div align="center">
 
-<img src="./assets/Artemis.png" alt="DoomedArtemis" width="900">
+<p align="center">
+  <img src="./assets/Artemis.png" alt="DoomedArtemis" width="750">
+</p>
 
-### Minecraft Mod Developer
+<br>
 
-I create Minecraft mods focused on **building, nature, world generation, movement, and client-side utility**, developed as part of the **Intelligence Modding Team**.
+<p>
+  I'm a developer from <strong>Germany</strong>, currently working toward a <strong>Bachelor's degree in Software Development</strong>.
+</p>
+
+<p>
+  My main focus is <strong>Java and Minecraft modding</strong>, creating projects for <strong>NeoForge and Fabric</strong> with an emphasis on building, nature, world generation, movement, and client-side utility.
+</p>
+
+<p>
+  I develop my projects as part of the <strong>Intelligence Modding Team</strong>.
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Java-Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -25,6 +37,30 @@ I create Minecraft mods focused on **building, nature, world generation, movemen
 </p>
 
 </div>
+
+---
+
+<p align="center">
+  <img src="./assets/Community.png" alt="Community" height="75">
+</p>
+
+<br>
+
+<p align="center">
+  My projects are developed as part of the <strong>Intelligence Modding Team</strong>.
+</p>
+
+<p align="center">
+  Follow our projects or join the community for releases, previews, development updates, and Minecraft modding discussion.
+</p>
+
+<p align="center">
+  <a href="https://discord.intelligence-modding.de/"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Intelligence Modding Discord"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/IntelligenceModding"><img src="https://img.shields.io/badge/GitHub-Intelligence%20Modding-181717?style=for-the-badge&logo=github&logoColor=white" alt="Intelligence Modding on GitHub"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@intelligencemodding4093"><img src="https://img.shields.io/badge/YouTube-Intelligence%20Modding-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Intelligence Modding on YouTube"></a>
+</p>
 
 ---
 
@@ -138,25 +174,3 @@ A nature-focused expansion that brings new flora, foliage layers, forest detail,
 </td>
 </tr>
 </table>
-
-<br>
-
-<p align="center">
-  <img src="./assets/Community.png" alt="Community" height="75">
-</p>
-
-<p align="center">
-  My projects are developed as part of the <strong>Intelligence Modding Team</strong>.
-</p>
-
-<p align="center">
-  Follow our projects or join the community for releases, previews, development updates, and Minecraft modding discussion.
-</p>
-
-<p align="center">
-  <a href="https://discord.intelligence-modding.de/"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Intelligence Modding Discord"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/IntelligenceModding"><img src="https://img.shields.io/badge/GitHub-Intelligence%20Modding-181717?style=for-the-badge&logo=github&logoColor=white" alt="Intelligence Modding on GitHub"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@intelligencemodding4093"><img src="https://img.shields.io/badge/YouTube-Intelligence%20Modding-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Intelligence Modding on YouTube"></a>
-</p>
