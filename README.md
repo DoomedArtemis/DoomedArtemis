@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Artemis.png" alt="DoomedArtemis" width="900">
+<img src="./assets/Artemis.png" alt="DoomedArtemis" width="900">
 
 ### Minecraft Mod Developer
 
@@ -29,7 +29,7 @@ I create Minecraft mods focused on **building, nature, world generation, movemen
 ---
 
 <p align="center">
-  <img src="./Projects.png" alt="Projects" height="75">
+  <img src="./assets/Projects.png" alt="Projects" height="75">
 </p>
 
 <table>
@@ -142,7 +142,7 @@ A nature-focused expansion that brings new flora, foliage layers, forest detail,
 <br>
 
 <p align="center">
-  <img src="./Community.png" alt="Community" height="75">
+  <img src="./assets/Community.png" alt="Community" height="75">
 </p>
 
 <p align="center">
