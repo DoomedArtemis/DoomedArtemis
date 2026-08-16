@@ -1,6 +1,6 @@
 <div align="center">
 
-# DoomedArtemis
+<img src="./Artemis.png" alt="DoomedArtemis" width="900">
 
 ### Minecraft Mod Developer
 
@@ -10,23 +10,27 @@ I create Minecraft mods focused on **building, nature, world generation, movemen
   <img src="https://img.shields.io/badge/Java-Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Minecraft-Modding-3C8527?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Modding">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Loader-NeoForge-6C47FF?style=for-the-badge" alt="NeoForge">
 </p>
 
 <p>
-  <a href="https://github.com/IntelligenceModding"><img src="https://img.shields.io/badge/GitHub-Intelligence%20Modding-181717?style=for-the-badge&logo=github&logoColor=white" alt="Intelligence Modding on GitHub"></a>
+  <a href="https://www.curseforge.com/members/doomed_artemis"><img src="https://img.shields.io/badge/CurseForge-Doomed__Artemis-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="Doomed_Artemis on CurseForge"></a>
   &nbsp;&nbsp;
-  <a href="https://discord.intelligence-modding.de/"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Intelligence Modding Discord"></a>
+  <a href="https://modrinth.com/user/Doomed_Artemis"><img src="https://img.shields.io/badge/Modrinth-Doomed__Artemis-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Doomed_Artemis on Modrinth"></a>
+</p>
+
+<p>
+  <a href="https://neoforged.net/"><img src="https://img.shields.io/badge/NeoForge-Homepage-6C47FF?style=for-the-badge" alt="NeoForge"></a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@intelligencemodding4093"><img src="https://img.shields.io/badge/YouTube-Intelligence%20Modding-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Intelligence Modding on YouTube"></a>
+  <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Fabric-Homepage-DBD0B4?style=for-the-badge" alt="Fabric"></a>
 </p>
 
 </div>
 
 ---
 
-<h2 align="center">Projects</h2>
+<p align="center">
+  <img src="./Projects.png" alt="Projects" height="75">
+</p>
 
 <table>
 <tr>
@@ -138,7 +142,7 @@ A nature-focused expansion that brings new flora, foliage layers, forest detail,
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IntelligenceModding/Baobab-Tree/refs/heads/assets/Community.png" alt="Community" height="75">
+  <img src="./Community.png" alt="Community" height="75">
 </p>
 
 <p align="center">
