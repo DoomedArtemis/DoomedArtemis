@@ -81,7 +81,7 @@ A fully client-side radial quick-action menu for commands, chat macros, utility 
 
 <p>
   <a href="https://www.curseforge.com/minecraft/mc-mods/omni-wheel"><img src="https://img.shields.io/badge/CurseForge-Project-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge"></a>
-  <a href="https://github.com/IntelligenceModding/OmniWheel"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://modrinth.com/mod/omni-wheel"><img src="https://img.shields.io/badge/Modrinth-Project-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth"></a>
 </p>
 
 </td>
