@@ -25,13 +25,9 @@
 </p>
 
 <p>
-  <a href="https://www.curseforge.com/members/doomed_artemis">
-    <img src="https://img.shields.io/badge/CurseForge-Doomed__Artemis-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="Doomed_Artemis on CurseForge">
-  </a>
+  <a href="https://www.curseforge.com/members/doomed_artemis"><img src="https://img.shields.io/badge/CurseForge-Doomed__Artemis-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="Doomed_Artemis on CurseForge"></a>
   &nbsp;&nbsp;
-  <a href="https://modrinth.com/user/Doomed_Artemis">
-    <img src="https://img.shields.io/badge/Modrinth-Doomed__Artemis-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Doomed_Artemis on Modrinth">
-  </a>
+  <a href="https://modrinth.com/user/Doomed_Artemis"><img src="https://img.shields.io/badge/Modrinth-Doomed__Artemis-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Doomed_Artemis on Modrinth"></a>
 </p>
 
 </div>
@@ -74,41 +70,29 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-<a href="https://github.com/IntelligenceModding/LaboratoryBlocks">
-  <img src="https://raw.githubusercontent.com/IntelligenceModding/LaboratoryBlocks/refs/heads/assets/Project%20Image.png" alt="Artemis' Laboratory Blocks" width="220">
-</a>
+<a href="https://github.com/IntelligenceModding/LaboratoryBlocks"><img src="https://raw.githubusercontent.com/IntelligenceModding/LaboratoryBlocks/refs/heads/assets/Project%20Image.png" alt="Artemis' Laboratory Blocks" width="220"></a>
 
 ### Artemis' Laboratory Blocks
 
 Clean, modern, and futuristic laboratory building materials for research facilities, industrial corridors, control rooms, and science-fiction inspired builds.
 
 <p>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/artemis-laboratory-blocks">
-    <img src="https://img.shields.io/curseforge/dt/737135?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Artemis' Laboratory Blocks CurseForge Downloads">
-  </a>
-  <a href="https://modrinth.com/mod/artemis-laboratory-blocks">
-    <img src="https://img.shields.io/modrinth/dt/artemis-laboratory-blocks?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Artemis' Laboratory Blocks Modrinth Downloads">
-  </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/artemis-laboratory-blocks"><img src="https://img.shields.io/curseforge/dt/737135?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Artemis' Laboratory Blocks CurseForge Downloads"></a>
+  <a href="https://modrinth.com/mod/artemis-laboratory-blocks"><img src="https://img.shields.io/modrinth/dt/artemis-laboratory-blocks?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Artemis' Laboratory Blocks Modrinth Downloads"></a>
 </p>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<a href="https://github.com/IntelligenceModding/Baobab-Tree">
-  <img src="https://raw.githubusercontent.com/IntelligenceModding/Baobab-Tree/refs/heads/assets/Project%20Image.png" alt="Baobab Tree" width="220">
-</a>
+<a href="https://github.com/IntelligenceModding/Baobab-Tree"><img src="https://raw.githubusercontent.com/IntelligenceModding/Baobab-Tree/refs/heads/assets/Project%20Image.png" alt="Baobab Tree" width="220"></a>
 
 ### Baobab Tree
 
 A vanilla-friendly nature expansion adding baobab trees, a complete wood family, roots, litter, fruit pods, and custom world generation for warm open landscapes.
 
 <p>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/baobab-tree">
-    <img src="https://img.shields.io/curseforge/dt/1595551?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Baobab Tree CurseForge Downloads">
-  </a>
-  <a href="https://modrinth.com/mod/baobab-tree">
-    <img src="https://img.shields.io/modrinth/dt/baobab-tree?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Baobab Tree Modrinth Downloads">
-  </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/baobab-tree"><img src="https://img.shields.io/curseforge/dt/1595551?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Baobab Tree CurseForge Downloads"></a>
+  <a href="https://modrinth.com/mod/baobab-tree"><img src="https://img.shields.io/modrinth/dt/baobab-tree?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Baobab Tree Modrinth Downloads"></a>
 </p>
 
 </td>
@@ -117,41 +101,29 @@ A vanilla-friendly nature expansion adding baobab trees, a complete wood family,
 <tr>
 <td width="50%" align="center" valign="top">
 
-<a href="https://github.com/IntelligenceModding/OmniWheel">
-  <img src="https://raw.githubusercontent.com/IntelligenceModding/OmniWheel/refs/heads/assets/Project%20Image.png" alt="Omni Wheel" width="220">
-</a>
+<a href="https://github.com/IntelligenceModding/OmniWheel"><img src="https://raw.githubusercontent.com/IntelligenceModding/OmniWheel/refs/heads/assets/Project%20Image.png" alt="Omni Wheel" width="220"></a>
 
 ### Omni Wheel
 
 A fully client-side radial quick-action menu for commands, chat macros, utility actions, nested menus, profiles, and configurable shortcuts.
 
 <p>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/omni-wheel">
-    <img src="https://img.shields.io/curseforge/dt/1645840?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Omni Wheel CurseForge Downloads">
-  </a>
-  <a href="https://modrinth.com/mod/omni-wheel">
-    <img src="https://img.shields.io/modrinth/dt/omni-wheel?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Omni Wheel Modrinth Downloads">
-  </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/omni-wheel"><img src="https://img.shields.io/curseforge/dt/1645840?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Omni Wheel CurseForge Downloads"></a>
+  <a href="https://modrinth.com/mod/omni-wheel"><img src="https://img.shields.io/modrinth/dt/omni-wheel?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Omni Wheel Modrinth Downloads"></a>
 </p>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<a href="https://github.com/IntelligenceModding/ThinLogs">
-  <img src="https://raw.githubusercontent.com/IntelligenceModding/ThinLogs/refs/heads/assets/Project%20Image.png" alt="Artemis' Thin Logs" width="220">
-</a>
+<a href="https://github.com/IntelligenceModding/ThinLogs"><img src="https://raw.githubusercontent.com/IntelligenceModding/ThinLogs/refs/heads/assets/Project%20Image.png" alt="Artemis' Thin Logs" width="220"></a>
 
 ### Artemis' Thin Logs
 
 Slimmer vanilla-style logs, stems, and bamboo for detailed trees, branches, supports, poles, and more precise organic building.
 
 <p>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/artemis-thin-logs">
-    <img src="https://img.shields.io/curseforge/dt/863021?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Artemis' Thin Logs CurseForge Downloads">
-  </a>
-  <a href="https://modrinth.com/mod/artemis-thin-logs">
-    <img src="https://img.shields.io/modrinth/dt/artemis-thin-logs?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Artemis' Thin Logs Modrinth Downloads">
-  </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/artemis-thin-logs"><img src="https://img.shields.io/curseforge/dt/863021?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Artemis' Thin Logs CurseForge Downloads"></a>
+  <a href="https://modrinth.com/mod/artemis-thin-logs"><img src="https://img.shields.io/modrinth/dt/artemis-thin-logs?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Artemis' Thin Logs Modrinth Downloads"></a>
 </p>
 
 </td>
@@ -160,41 +132,29 @@ Slimmer vanilla-style logs, stems, and bamboo for detailed trees, branches, supp
 <tr>
 <td width="50%" align="center" valign="top">
 
-<a href="https://github.com/IntelligenceModding/Climbing-Claws">
-  <img src="https://raw.githubusercontent.com/IntelligenceModding/Climbing-Claws/refs/heads/assets/Project%20Image.png" alt="Climbing Claws" width="220">
-</a>
+<a href="https://github.com/IntelligenceModding/Climbing-Claws"><img src="https://raw.githubusercontent.com/IntelligenceModding/Climbing-Claws/refs/heads/assets/Project%20Image.png" alt="Climbing Claws" width="220"></a>
 
 ### Climbing Claws
 
 A survival-friendly climbing tool for controlled wall and ceiling traversal, hanging, descending, launching, and movement-focused enchantments.
 
 <p>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/climbing-claws">
-    <img src="https://img.shields.io/curseforge/dt/1601880?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Climbing Claws CurseForge Downloads">
-  </a>
-  <a href="https://modrinth.com/mod/climbing-claws">
-    <img src="https://img.shields.io/modrinth/dt/climbing-claws?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Climbing Claws Modrinth Downloads">
-  </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/climbing-claws"><img src="https://img.shields.io/curseforge/dt/1601880?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Climbing Claws CurseForge Downloads"></a>
+  <a href="https://modrinth.com/mod/climbing-claws"><img src="https://img.shields.io/modrinth/dt/climbing-claws?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Climbing Claws Modrinth Downloads"></a>
 </p>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<a href="https://github.com/IntelligenceModding/Flora-Expansion">
-  <img src="https://raw.githubusercontent.com/IntelligenceModding/Flora-Expansion/refs/heads/assets/Project%20Image.png" alt="Artemis' Flora Expansion" width="220">
-</a>
+<a href="https://github.com/IntelligenceModding/Flora-Expansion"><img src="https://raw.githubusercontent.com/IntelligenceModding/Flora-Expansion/refs/heads/assets/Project%20Image.png" alt="Artemis' Flora Expansion" width="220"></a>
 
 ### Artemis' Flora Expansion
 
 A nature-focused expansion that brings new flora, foliage layers, forest detail, ambient natural elements, and more life to Minecraft landscapes.
 
 <p>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/flora-expansion">
-    <img src="https://img.shields.io/curseforge/dt/1492133?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Artemis' Flora Expansion CurseForge Downloads">
-  </a>
-  <a href="https://modrinth.com/mod/flora-expansion">
-    <img src="https://img.shields.io/modrinth/dt/flora-expansion?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Artemis' Flora Expansion Modrinth Downloads">
-  </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/flora-expansion"><img src="https://img.shields.io/curseforge/dt/1492133?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Artemis' Flora Expansion CurseForge Downloads"></a>
+  <a href="https://modrinth.com/mod/flora-expansion"><img src="https://img.shields.io/modrinth/dt/flora-expansion?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Artemis' Flora Expansion Modrinth Downloads"></a>
 </p>
 
 </td>
@@ -264,7 +224,7 @@ A nature-focused expansion that brings new flora, foliage layers, forest detail,
 ---
 
 <p align="center">
-  <img src="./assets/Activity.png" alt="GitHub Activity" height="75">
+  <img src="./assets/Activity.png" alt="Activity" height="75">
 </p>
 
 <br>
@@ -290,21 +250,11 @@ A nature-focused expansion that brings new flora, foliage layers, forest detail,
 </p>
 
 <p align="center">
-  <a href="https://discord.intelligence-modding.de/">
-    <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Intelligence Modding Discord">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/IntelligenceModding">
-    <img src="https://img.shields.io/badge/GitHub-Intelligence%20Modding-181717?style=for-the-badge&logo=github&logoColor=white" alt="Intelligence Modding on GitHub">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@intelligencemodding4093">
-    <img src="https://img.shields.io/badge/YouTube-Intelligence%20Modding-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Intelligence Modding on YouTube">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <sub>Creating Minecraft mods, one project at a time.</sub>
+  <a href="https://discord.intelligence-modding.de/"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Intelligence Modding Discord"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IntelligenceModding"><img src="https://img.shields.io/badge/GitHub-Intelligence%20Modding-181717?style=for-the-badge&logo=github&logoColor=white" alt="Intelligence Modding on GitHub"></a>
+  &nbsp;&nbsp;
+  <a href="https://modrinth.com/organization/intelligence"><img src="https://img.shields.io/badge/Modrinth-Intelligence-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Intelligence on Modrinth"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@intelligencemodding4093"><img src="https://img.shields.io/badge/YouTube-Intelligence%20Modding-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Intelligence Modding on YouTube"></a>
 </p>
