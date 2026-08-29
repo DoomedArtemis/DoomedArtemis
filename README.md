@@ -49,7 +49,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDoomedArtemis%2FDoomedArtemis%2Fmain%2Fstats.json&query=%24.followers_likes_display&style=for-the-badge&label=Followers%20%2B%20Likes&color=E05D8D&cacheSeconds=3600" alt="Followers and Likes">
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Published%20Mods-6-3C8527?style=for-the-badge&logo=minecraft&logoColor=white" alt="Published Mods">
+  <img src="https://img.shields.io/badge/Published%20Mods-7-3C8527?style=for-the-badge&logo=minecraft&logoColor=white" alt="Published Mods">
 </p>
 
 <p align="center">
@@ -155,6 +155,23 @@ A nature-focused expansion that brings new flora, foliage layers, forest detail,
 <p>
   <a href="https://www.curseforge.com/minecraft/mc-mods/flora-expansion"><img src="https://img.shields.io/curseforge/dt/1492133?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Artemis' Flora Expansion CurseForge Downloads"></a>
   <a href="https://modrinth.com/mod/flora-expansion"><img src="https://img.shields.io/modrinth/dt/flora-expansion?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Artemis' Flora Expansion Modrinth Downloads"></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center" valign="top">
+
+<a href="https://github.com/IntelligenceModding/CouponCodes"><img src="https://raw.githubusercontent.com/IntelligenceModding/CouponCodes/refs/heads/assets/Project%20Image.png" alt="Coupon Codes" width="220"></a>
+
+### Coupon Codes
+
+Collectible discount coupons that provide useful bonuses for normal survival gameplay, including equipment, magic, trading, consumables, mobility, and combat.
+
+<p>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/coupon-codes"><img src="https://img.shields.io/curseforge/dt/1658411?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436" alt="Coupon Codes CurseForge Downloads"></a>
+  <a href="https://modrinth.com/mod/coupon-codes"><img src="https://img.shields.io/modrinth/dt/coupon-codes?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C" alt="Coupon Codes Modrinth Downloads"></a>
 </p>
 
 </td>
