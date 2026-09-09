@@ -247,7 +247,7 @@ Collectible discount coupons that provide useful bonuses for normal survival gam
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoomedArtemis&theme=github-compact&hide_border=true&area=true" alt="DoomedArtemis GitHub Activity Graph">
+  <img src="https://ghchart.rshah.org/3C8527/DoomedArtemis" alt="DoomedArtemis GitHub Activity">
 </p>
 
 ---
