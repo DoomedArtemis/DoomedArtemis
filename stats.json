@@ -1,8 +1,63 @@
 {
-  "total_downloads_display": "Updating...",
-  "modrinth_followers_display": "Updating...",
-  "curseforge_downloads_display": "Updating...",
-  "modrinth_downloads_display": "Updating...",
+  "updated_at": "2026-10-09T11:02:57.781597+00:00",
+  "total_downloads": 441403,
+  "total_downloads_display": "441.4K",
+  "modrinth_followers": 51,
+  "modrinth_followers_display": "51",
   "published_mods": 7,
-  "projects": []
+  "curseforge_downloads": 424449,
+  "curseforge_downloads_display": "424.4K",
+  "modrinth_downloads": 16954,
+  "modrinth_downloads_display": "17K",
+  "projects": [
+    {
+      "modrinth_slug": "artemis-laboratory-blocks",
+      "curseforge_id": 737135,
+      "modrinth_downloads": 12215,
+      "modrinth_followers": 13,
+      "curseforge_downloads": 413283
+    },
+    {
+      "modrinth_slug": "baobab-tree",
+      "curseforge_id": 1595551,
+      "modrinth_downloads": 256,
+      "modrinth_followers": 5,
+      "curseforge_downloads": 860
+    },
+    {
+      "modrinth_slug": "omni-wheel",
+      "curseforge_id": 1645840,
+      "modrinth_downloads": 50,
+      "modrinth_followers": 1,
+      "curseforge_downloads": 862
+    },
+    {
+      "modrinth_slug": "artemis-thin-logs",
+      "curseforge_id": 863021,
+      "modrinth_downloads": 3345,
+      "modrinth_followers": 21,
+      "curseforge_downloads": 5631
+    },
+    {
+      "modrinth_slug": "climbing-claws",
+      "curseforge_id": 1601880,
+      "modrinth_downloads": 611,
+      "modrinth_followers": 5,
+      "curseforge_downloads": 1755
+    },
+    {
+      "modrinth_slug": "flora-expansion",
+      "curseforge_id": 1492133,
+      "modrinth_downloads": 246,
+      "modrinth_followers": 6,
+      "curseforge_downloads": 1902
+    },
+    {
+      "modrinth_slug": "coupon-codes",
+      "curseforge_id": 1658411,
+      "modrinth_downloads": 231,
+      "modrinth_followers": 0,
+      "curseforge_downloads": 156
+    }
+  ]
 }
