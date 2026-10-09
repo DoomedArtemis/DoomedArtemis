@@ -45,17 +45,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDoomedArtemis%2FDoomedArtemis%2Fmain%2Fstats.json&query=%24.total_downloads_display&style=for-the-badge&logo=minecraft&logoColor=white&label=Total%20Downloads&color=3C8527&cacheSeconds=3600" alt="Total Downloads">
+  <img src="./assets/stats/total-downloads.svg" alt="Total Downloads">
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDoomedArtemis%2FDoomedArtemis%2Fmain%2Fstats.json&query=%24.modrinth_followers_display&style=for-the-badge&label=Modrinth%20Followers&color=E05D8D&cacheSeconds=3600" alt="Modrinth Followers">
+  <img src="./assets/stats/followers-likes.svg" alt="Combined Modrinth followers and CurseForge likes">
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Published%20Mods-7-3C8527?style=for-the-badge&logo=minecraft&logoColor=white" alt="Published Mods">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDoomedArtemis%2FDoomedArtemis%2Fmain%2Fstats.json&query=%24.curseforge_downloads_display&style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge%20Downloads&color=F16436&cacheSeconds=3600" alt="CurseForge Downloads">
+  <img src="./assets/stats/curseforge-downloads.svg" alt="CurseForge Downloads">
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDoomedArtemis%2FDoomedArtemis%2Fmain%2Fstats.json&query=%24.modrinth_downloads_display&style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth%20Downloads&color=00AF5C&cacheSeconds=3600" alt="Modrinth Downloads">
+  <img src="./assets/stats/modrinth-downloads.svg" alt="Modrinth Downloads">
 </p>
 
 ---
