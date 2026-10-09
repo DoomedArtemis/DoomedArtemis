@@ -24,12 +24,14 @@ jobs:
         with:
           python-version: '3.12'
       - name: Refresh download and follower statistics
+        env:
+          CURSEFORGE_API_KEY: ${{ secrets.CURSEFORGE_API_KEY }}
         run: python scripts/update_stats.py
       - name: Commit refreshed statistics
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add stats.json
+          git add stats.json assets/stats/*.svg
           if ! git diff --cached --quiet; then
             git commit -m 'chore: refresh README project stats'
             git push
