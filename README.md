@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDoomedArtemis%2FDoomedArtemis%2Fmain%2Fstats.json&query=%24.total_downloads_display&style=for-the-badge&logo=minecraft&logoColor=white&label=Total%20Downloads&color=3C8527&cacheSeconds=3600" alt="Total Downloads">
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDoomedArtemis%2FDoomedArtemis%2Fmain%2Fstats.json&query=%24.followers_likes_display&style=for-the-badge&label=Followers%20%2B%20Likes&color=E05D8D&cacheSeconds=3600" alt="Followers and Likes">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FDoomedArtemis%2FDoomedArtemis%2Fmain%2Fstats.json&query=%24.modrinth_followers_display&style=for-the-badge&label=Modrinth%20Followers&color=E05D8D&cacheSeconds=3600" alt="Modrinth Followers">
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Published%20Mods-7-3C8527?style=for-the-badge&logo=minecraft&logoColor=white" alt="Published Mods">
 </p>
@@ -177,78 +177,6 @@ Collectible discount coupons that provide useful bonuses for normal survival gam
 </td>
 </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="./assets/Development.png" alt="Development" height="75">
-</p>
-
-<br>
-
-<p align="center">
-  My projects are primarily developed in <strong>Java</strong> using modern Minecraft modding frameworks and tooling.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
-  &nbsp;
-  <img src="https://img.shields.io/badge/NeoForge-6C47FF?style=for-the-badge" alt="NeoForge">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge" alt="Fabric">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Minecraft-Modding-3C8527?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Modding">
-</p>
-
----
-
-<p align="center">
-  <img src="./assets/Focus.png" alt="Current Focus" height="75">
-</p>
-
-<br>
-
-<p align="center">
-  Maintaining and expanding my Minecraft projects across modern game versions, exploring new gameplay systems, and continuing to improve my Java and software development skills.
-</p>
-
-<p align="center">
-  🌿 <strong>Nature & World Generation</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🧱 <strong>Building & Decoration</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🧭 <strong>Movement & Utility</strong>
-</p>
-
-<p align="center">
-  ⚙️ <strong>NeoForge & Fabric</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  ☕ <strong>Java Development</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🎓 <strong>Software Development</strong>
-</p>
-
----
-
-<p align="center">
-  <img src="./assets/Activity.png" alt="Activity" height="75">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/3C8527/DoomedArtemis" alt="DoomedArtemis GitHub Activity">
-</p>
 
 ---
 
