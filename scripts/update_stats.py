@@ -22,10 +22,10 @@ PROJECTS = [
 ]
 
 
-def fetch_json(url):
+def fetch_json(url, extra_headers=None):
     for attempt in range(3):
         try:
-            req = Request(url, headers={'User-Agent': 'DoomedArtemis-readme-stats/1.1 (GitHub profile badge updater)', 'Accept': 'application/json'})
+            req = Request(url, headers={'User-Agent': 'DoomedArtemis-readme-stats/1.2 (GitHub profile badge updater)', 'Accept': 'application/json', **(extra_headers or {})})
             with urlopen(req, timeout=22) as res:
                 return json.load(res)
         except (HTTPError, URLError, TimeoutError, ValueError, OSError) as exc:
@@ -58,11 +58,44 @@ def compact(n):
     return str(n)
 
 
+BADGES = (
+    ('total-downloads', 'TOTAL DOWNLOADS', 'total_downloads_display', '#3C8527'),
+    ('followers-likes', 'FOLLOWERS + LIKES', 'followers_likes_display', '#E05D8D'),
+    ('curseforge-downloads', 'CURSEFORGE DOWNLOADS', 'curseforge_downloads_display', '#F16436'),
+    ('modrinth-downloads', 'MODRINTH DOWNLOADS', 'modrinth_downloads_display', '#00AF5C'),
+)
+
+
+def write_badges(stats):
+    # Generate repository-hosted badges without relying on Shields.io uptime/cache.
+    folder = ROOT / 'assets' / 'stats'
+    folder.mkdir(parents=True, exist_ok=True)
+    for filename, label, field, color in BADGES:
+        value = str(stats[field])
+        left_width = max(104, len(label) * 7 + 24)
+        right_width = max(54, len(value) * 9 + 26)
+        total = left_width + right_width
+        svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{total}" height="28" role="img" aria-label="{label}: {value}">
+  <title>{label}: {value}</title>
+  <rect width="{total}" height="28" fill="#555"/>
+  <rect x="{left_width}" width="{right_width}" height="28" fill="{color}"/>
+  <g fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle" letter-spacing="1">
+    <text x="{left_width / 2}" y="18">{label}</text>
+    <text x="{left_width + right_width / 2}" y="18" font-weight="bold">{value}</text>
+  </g>
+</svg>
+'''
+        (folder / f'{filename}.svg').write_text(svg, encoding='utf-8')
+
+
 def main():
     previous = json.loads(OUTPUT.read_text(encoding='utf8')) if OUTPUT.exists() else {}
     old = {p['modrinth_slug']: p for p in previous.get('projects', [])}
     results = []
     failures = []
+    cf_key = os.environ.get('CURSEFORGE_API_KEY', '').strip()
+    if not cf_key:
+        raise SystemExit('CURSEFORGE_API_KEY missing: add this repository Actions secret to enable combined followers + likes.')
     for slug, cf_id in PROJECTS:
         cached = old.get(slug, {})
         entry = {'modrinth_slug': slug, 'curseforge_id': cf_id}
@@ -83,9 +116,17 @@ def main():
                 for key in (['modrinth_downloads', 'modrinth_followers'] if provider == 'modrinth' else ['curseforge_downloads']):
                     if key in cached:
                         entry[key] = cached[key]
+        # The official CurseForge API provides thumbsUpCount; CFWidget does not document it.
+        try:
+            official = fetch_json(f'https://api.curseforge.com/v1/mods/{cf_id}', {'x-api-key': cf_key})
+            entry['curseforge_likes'] = nonnegative_int(official['data']['thumbsUpCount'], f'{slug} CurseForge likes')
+        except (RuntimeError, ValueError, TypeError, AttributeError, KeyError) as exc:
+            failures.append(f'{slug}/curseforge-likes: {exc}')
+            if 'curseforge_likes' in cached:
+                entry['curseforge_likes'] = cached['curseforge_likes']
         results.append(entry)
 
-    required = ('modrinth_downloads', 'modrinth_followers', 'curseforge_downloads')
+    required = ('modrinth_downloads', 'modrinth_followers', 'curseforge_downloads', 'curseforge_likes')
     missing = [f'{p["modrinth_slug"]}/{field}' for p in results for field in required if field not in p]
     if missing:
         logging.error('Incomplete data, leaving stats.json unchanged: %s', ', '.join(missing))
@@ -94,12 +135,17 @@ def main():
     modrinth = sum(p['modrinth_downloads'] for p in results)
     curseforge = sum(p['curseforge_downloads'] for p in results)
     followers = sum(p['modrinth_followers'] for p in results)
+    likes = sum(p['curseforge_likes'] for p in results)
     stats = {
         'updated_at': datetime.now(timezone.utc).isoformat(),
         'total_downloads': modrinth + curseforge,
         'total_downloads_display': compact(modrinth + curseforge),
         'modrinth_followers': followers,
         'modrinth_followers_display': compact(followers),
+        'curseforge_likes': likes,
+        'curseforge_likes_display': compact(likes),
+        'followers_likes': followers + likes,
+        'followers_likes_display': compact(followers + likes),
         'published_mods': len(PROJECTS),
         'curseforge_downloads': curseforge,
         'curseforge_downloads_display': compact(curseforge),
@@ -114,6 +160,7 @@ def main():
     comparable.pop('updated_at')
     prior = dict(previous)
     prior.pop('updated_at', None)
+    write_badges(stats)
     if comparable != prior:
         OUTPUT.write_text(json.dumps(stats, indent=2, ensure_ascii=False) + '\n', encoding='utf8')
         logging.info('Updated stats.json; downloads: %s', stats['total_downloads_display'])
